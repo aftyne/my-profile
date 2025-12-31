@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-default {
+  background-color: #fcd34d; /* Warna dasar kuning */
+  background-image: radial-gradient(#d946ef 2px, transparent 2px);
+  background-size: 32px 32px;
+}
+
+.shadow-block {
+  box-shadow: 5px 10px black;
+}
+
+.shadow-img {
+  box-shadow: 5px 10px black;
+}
